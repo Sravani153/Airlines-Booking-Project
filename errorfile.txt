@@ -1,0 +1,5 @@
+
+
+<p><small>Location :<b><?php echo $aname[$row['departure_airport_id']].' - '.$aname[$row['arrival_airport_id']] ?></small></b></p>
+
+<img class="img-fluid" src="assets/img/<?php echo $row['logo_path'] ?>" alt="" />
